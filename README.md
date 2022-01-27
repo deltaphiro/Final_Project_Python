@@ -2,7 +2,7 @@
 
 
 Tema dari final project yang kelompok kami kerjakan adalah cybersecurity.
-Aplikasi yang kami buat adalah aplikasi kriptografi bernama Cryptho yang merupakan tools kriptografi berbasis bahasa Indonesia.
+Aplikasi yang kami buat adalah aplikasi kriptografi untuk enkripsi bernama Cryptho yang merupakan tools kriptografi berbasis bahasa Indonesia.
 
 
 Library/Package yang digunakan:
@@ -14,7 +14,7 @@ Library/Package yang digunakan:
 - struck
 
 
-Progres : XX%
+Progres : 80%
 
 
 Nama Anggota :
