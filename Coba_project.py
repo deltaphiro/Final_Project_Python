@@ -1,6 +1,8 @@
 from Rsa_ende import *
 from DES3 import *
 from vigenere_1 import *
+from aes_1 import *
+from blowfish_c import *
 while True:
 
     print("============================================================")
@@ -13,7 +15,7 @@ while True:
     if tipe_key == "1":
         vigenere_encrypt()
     elif tipe_key == "2":
-        plain_text = input("Untuk plaintext mohon dimasukkan tanpa spasi. \n Masukkan plaintext Anda : \n")
+        BlowFish_Encrypt()
     elif tipe_key == "3":
         des = True
         while des ==True:
