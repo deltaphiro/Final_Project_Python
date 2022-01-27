@@ -53,8 +53,6 @@ def vigenere_encrypt():
         print(conv.upper(), end='')
 
     print()
- 
-
 
 
 def vigenere_decrypt():
@@ -114,8 +112,3 @@ def vigenere_decrypt():
         conv = chr(new_list[i] + 97)
         print(conv.upper(), end='')
     print()
-
-
-
-vigenere_encrypt()
-vigenere_decrypt()
