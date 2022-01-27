@@ -20,8 +20,8 @@ Progres : 80%
 
 Nama Anggota :
 
--Khansa Intani		  20.83.0547	20-TK02
+-Khansa Intani/20.83.0547/20-TK02
 
--Halimatul Hasanah	20.83.0551	20-TK02
+-Halimatul Hasanah/20.83.0551/20-TK02
 
--Fata Naufal Hanan	20.83.0562	20-TK02
+-Fata Naufal Hanan/20.83.0562/20-TK02
