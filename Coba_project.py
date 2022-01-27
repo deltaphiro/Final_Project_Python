@@ -35,6 +35,6 @@ while True:
     elif tipe_key == "5":
         plain_text = input("Untuk plaintext mohon dimasukkan tanpa spasi. \n Masukkan plaintext Anda : \n")
     elif tipe_key == "6":
-        plain_text = input("Untuk plaintext mohon dimasukkan tanpa spasi. \n Masukkan plaintext Anda : \n")
+        AES_py()
     else:
         print("Tolong input dengan benar.")
