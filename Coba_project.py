@@ -1,5 +1,6 @@
 from Rsa_ende import *
 from DES3 import *
+from vigenere_1 import *
 while True:
 
     print("============================================================")
@@ -10,7 +11,7 @@ while True:
 
     tipe_key = input("Tool kriptografi yang ingin anda gunakan : \n 1.Vigenere \n 2.BlowFish \n 3.TripleDES \n 4.RSA \n 5.TwoFish \n 6.AES \nPilihan Anda : ")
     if tipe_key == "1":
-        pass
+        vigenere_encrypt()
     elif tipe_key == "2":
         plain_text = input("Untuk plaintext mohon dimasukkan tanpa spasi. \n Masukkan plaintext Anda : \n")
     elif tipe_key == "3":
